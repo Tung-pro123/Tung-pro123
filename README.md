@@ -61,8 +61,8 @@
 
 **🏦 MBBANK**
 - **Chủ tài khoản:** LE THANH TUNG
-- **Số tài khoản:** 1909032006 *(Hãy kiểm tra lại nếu bạn muốn dùng STK cá nhân khác)*
-- **Chi nhánh:** PGD QUY CHAU
+- **Số tài khoản:** 2201200699999
+
 
 ---
 
