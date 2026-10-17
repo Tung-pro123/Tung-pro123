@@ -88,14 +88,25 @@
     </td>
   </tr>
   <tr>
-    <td><b>DevOps, Tooling & Testing</b></td>
+    <td><b>Kiểm thử & QA (Testing)</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Selenium_WebDriver_4-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+      <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mockito-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Page_Object_Model_(POM)-blue?style=flat-square" /><br/>
+      <b>Automation Testing:</b> Selenium WebDriver 4.x (Java), thiết kế kiến trúc Page Object Model (POM), ThreadLocal WebDriver (thực thi kiểm thử song song an toàn đa luồng), E2E Web Regression Testing.<br/>
+      <b>Unit & Integration Testing:</b> JUnit 5 Jupiter, Mockito (Mock Bean, Service Layer Testing), Test Case Specification (200+ test scenarios).
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps, Tooling & Build</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" />
       <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><br/>
-      Unit & Integration Testing (JUnit 5, Mockito), Multi-service Containerization, Git Flow, Maven, Swagger / OpenAPI UI.
+      Multi-service Containerization, Git Flow, quản lý dependencies & plugins qua Maven (<code>pom.xml</code>), Swagger / OpenAPI UI.
     </td>
   </tr>
 </table>
